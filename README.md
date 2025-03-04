@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/danielmart222/Creating-a-StorageAccount)
-  - [osTicket: Post-Installation Configuration](https://github.com/danielmart222/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/danielmart222/ticket-lifecycle)
+
+
+
+
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/danielmart222/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/danielmart222/azure-network-protocols)
+  - [Creating a Storage Account in Azure](https://github.com/danielmart222/configure-ad)
+
 
 <h2>🤳Connect with me:</h2>
 
