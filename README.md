@@ -7,7 +7,7 @@
 
 
 - <b>Microsoft Azure</b>
-  - [Creating a Storage Account in Azure](https://github.com/danielmart222/Creating:storage-account)
+  - [Creating a Storage Account in Azure](https://github.com/danielmart222/Creating-storageaccount)
 
 
 <h2>🤳Connect with me:</h2>
