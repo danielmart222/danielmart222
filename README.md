@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Creating a Storage Account in Azure](https://github.com/danielmart222/Creating-storageaccount)
  
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/danielmart222/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs Part 1 & 2](https://github.com/danielmart222/configure-ad)
 
 
 
