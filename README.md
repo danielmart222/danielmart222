@@ -12,6 +12,10 @@
   - [Configuring On-premises Active Directory within Azure VMs Part 1 & 2](https://github.com/danielmart222/configure-ad)
 
   - [Configuring On-premises Active Directory within Azure VMs Part 3 & 4 ](https://github.com/danielmart222/configure-ad2)
+ 
+  - [Network File Shares and Permisssions](https://github.com/danielmart222/fileshares-permissions)
+
+  - [DNS](https://github.com/danielmart222/DNS-practice)
 
 
 
